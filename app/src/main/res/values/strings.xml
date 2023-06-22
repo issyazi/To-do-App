@@ -2,4 +2,10 @@
     <string name="app_name">To-do App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_email">Введите почту</string>
+    <string name="type_pass">Введите пароль</string>
+    <string name="retype_pass">Повторите пароль</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Вход</string>
+    <string name="already_rg">Уже зарегистрирован?</string>
 </resources>
