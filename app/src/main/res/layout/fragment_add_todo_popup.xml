@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="400dp"
     android:layout_height="wrap_content"
-    tools:context="Fragments.ToDoDialogFragment">
+    tools:context=".fragments.AddTodoPopupFragment">
 
 
     <androidx.constraintlayout.widget.ConstraintLayout
